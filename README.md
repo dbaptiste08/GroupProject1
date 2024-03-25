@@ -2,9 +2,13 @@
 
 # Team Members:
 Dbaptiste08 - Danielle Baptiste
+
 ConnorMiller64 - Connor Miller
+
 Jackhmiller31 - Jack Miller
+
 haydentMartin - Hayden Martin
+
 Conscientisehandball - Timofei (Tim) Begun
 
 # Problem Description:
