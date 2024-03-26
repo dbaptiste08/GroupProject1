@@ -19,6 +19,38 @@ The task at hand is to create and model a database for a membership based tennis
 
 # Data Dictionary:
 
+<img width="678" alt="Screenshot 2024-03-26 at 1 11 31 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/edf0f986-fcc1-4d43-8d38-aacfea2be8c4">
+
+<img width="681" alt="Screenshot 2024-03-26 at 1 13 06 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/abe20325-b211-4f72-9012-25cad74b800f">
+
+<img width="643" alt="Screenshot 2024-03-26 at 1 26 46 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/59b65007-7275-44db-a71d-58a089a9731d">
+
+
+<img width="653" alt="Screenshot 2024-03-26 at 1 17 17 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/fdcd54aa-66a4-4452-a39e-9cbfe1f4fe7a">
+
+<img width="621" alt="Screenshot 2024-03-26 at 1 19 05 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/e1945be2-ca35-4e50-aedf-5e9cc0553475">
+
+<img width="630" alt="Screenshot 2024-03-26 at 1 23 36 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/aad17b20-3d80-49bf-86d0-4f6d744e5443">
+
+
+<img width="646" alt="Screenshot 2024-03-26 at 1 22 57 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/d7384e92-5c65-4ffa-b6fb-7329262de4ca">
+
+<img width="674" alt="Screenshot 2024-03-26 at 1 25 43 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/a3a41bef-1e30-4373-8cfd-db394dd801b4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
