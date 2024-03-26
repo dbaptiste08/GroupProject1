@@ -51,6 +51,23 @@ The task at hand is to create and model a database for a membership based tennis
 <img width="600" alt="Screenshot 2024-03-26 at 1 33 21 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/ef2ec6d0-0989-408c-9c6b-c737d379b23a">
 
 
+# Queries:
+
+<img width="756" alt="Screenshot 2024-03-26 at 6 04 45 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/43d155da-07bb-4022-b929-c6fb679a952d">
+
+Query 1 lists the count of employees and the type of employment that the club currently has. This query will help identify the distribution of employees across different employment types.
+<img width="1269" alt="Screenshot 2024-03-26 at 6 07 19 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/5ec167e5-1798-4a3d-85da-6efe8a81cb0c">
+Query 1 allows managers to see how many of each type of employee they currently have. It is useful to know how many part time employees a manager has because typically they are paid less and help the organization to stay within budget. It is also useful to track the full-time employees, as they have a more steady commitment to the club, and have a more diverse skill set. 
+
+Query two lists the total revenue generated for the tennis club. This number is rounded to the nearest whole number.
+<img width="1270" alt="Screenshot 2024-03-26 at 6 08 19 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/86fbbf9d-07f4-495b-b0bc-5eb51581a84e">
+Query 2 gives the manager a more holistic view of the status of their tennis club. This allows the manager to communicate to stakeholders the performance of the club. Also, it gives a performance evaluation for the manager’s current employees.
+
+
+
+
+
+
 
 
 
