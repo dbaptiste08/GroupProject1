@@ -56,12 +56,80 @@ The task at hand is to create and model a database for a membership based tennis
 <img width="756" alt="Screenshot 2024-03-26 at 6 04 45 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/43d155da-07bb-4022-b929-c6fb679a952d">
 
 Query 1 lists the count of employees and the type of employment that the club currently has. This query will help identify the distribution of employees across different employment types.
+
 <img width="1269" alt="Screenshot 2024-03-26 at 6 07 19 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/5ec167e5-1798-4a3d-85da-6efe8a81cb0c">
+
 Query 1 allows managers to see how many of each type of employee they currently have. It is useful to know how many part time employees a manager has because typically they are paid less and help the organization to stay within budget. It is also useful to track the full-time employees, as they have a more steady commitment to the club, and have a more diverse skill set. 
 
-Query two lists the total revenue generated for the tennis club. This number is rounded to the nearest whole number.
+
+Query 2 lists the total revenue generated for the tennis club. This number is rounded to the nearest whole number.
+
 <img width="1270" alt="Screenshot 2024-03-26 at 6 08 19 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/86fbbf9d-07f4-495b-b0bc-5eb51581a84e">
+
 Query 2 gives the manager a more holistic view of the status of their tennis club. This allows the manager to communicate to stakeholders the performance of the club. Also, it gives a performance evaluation for the manager’s current employees.
+
+
+Query 3 lists the order identification number, the status of the order, and the member receiving said order.
+
+<img width="1269" alt="Screenshot 2024-03-26 at 6 13 37 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/2ab9edcf-a13b-44e2-a4f5-df94d799ad90">
+
+Query 3 is importatn because for a successful company to run, it is key for the customers to be satisfied. Regular communications about a shipment indicate that the company goes to lengths to ensure a customer gets their product. Which could lead to a customer, ordering another product from the tennis club in the future.
+
+
+Query 4 lists out the facility type, the description of the facility, the amenity offered, and how many reservations a member has made at a particular facility.
+
+<img width="1269" alt="Screenshot 2024-03-26 at 6 15 55 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/aefcb44b-0bb8-4f4b-b62a-ada6882b27e2">
+
+From a managerial standpoint, it is important to know which services are the most profitable in their company. The most popular services are making a reservation at a restaurant, and booking services at the spa. With this knowledge, a manger can turn a higher profit by making sure the staff are high performing, and potentially open more restaurants.
+
+
+Query 5 provides the information on amount of reservations each employee is handling.
+
+<img width="1272" alt="Screenshot 2024-03-26 at 6 17 55 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/3a851988-bc15-43cc-b74b-e01e013ff97a">
+
+This is important because the club would like to see the performance of each employee. Some employees may not be working to the standard of our club, and some may be exceeding it. The amount of reservations they are handling shows which employees are doing their share.
+
+
+Query 6 helps sort our clubs most popular orders and provides how much money is spent on them by the customer.
+
+<img width="1270" alt="Screenshot 2024-03-26 at 6 19 38 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/700b3afe-c8a7-47c9-b1ab-7dd62cc9a739">
+
+It is important to know what products are selling at higher than average rates. This will tell our club which items need to be purchased more often to keep in stock. The amount spent tells us how much money is coming in from selling these products.
+
+
+Query 7 tells how many orders come from members under 30 years old.
+
+<img width="1257" alt="Screenshot 2024-03-26 at 6 20 39 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/eecf5050-1b3b-4f1f-ab3f-3b4790d1333e">
+
+It is important for the club to look at who is ordering more items. Age is a good indicator of spending habits, and the club may be interested in pushing their advertising toward groups that are more likely to buy more from the club to increase profits.
+
+
+Query 8: Gives members who participate in tournaments with an age requirement of 27 years old.
+
+<img width="1242" alt="Screenshot 2024-03-26 at 6 22 50 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/ba04b197-0699-4722-a0d0-7f9754afafc4">
+
+Our tennis club may want to know this information, because if there are tournaments that aren't being participated in by a decent number of members, they may want to scrap the tournaments or lower the age requirement so they aren’t wasting money and reserved courts.
+
+Query 9 lists the members name, age, phone number, and total spent.
+
+<img width="1270" alt="Screenshot 2024-03-26 at 6 28 35 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/50130a9c-4e25-4d7d-9e29-4598847783df">
+
+This query provides management with a list of their most profitable clients. With this information, management can identify specific customers who spend the most at the club using the metric of total spent greater than $1,000 This could be useful for a manager to maximize revenue by offering rewards to said customers, and encourage their spending habits.
+
+
+Query 10 lists the total raquet revenue during specific months.
+
+<img width="1269" alt="Screenshot 2024-03-26 at 6 32 52 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/0f8d3e7a-6f0e-4402-8514-787d91bd345e">
+
+This query shows the total revenue made on the sale of tennis racquets by date. This information can be used to show the most profitable days for racquet sales and could be used to identify possible seasonality. Ideally, the CSV file from these results could be used in Microsoft Excel to visualize the information in a chart or graph. This would likely give managers the clearest idea of when racquet sales are most/least profitable. Which can aid the manager, when deciding on prices for the racquets to generate the most revenue.
+
+
+# Database Information: 
+Name of the database: ns_Sp24_47114_Group3
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
+
+
+
 
 
 
