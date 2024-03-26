@@ -1,4 +1,8 @@
-# GroupProject1
+# Group 3 Project 1
+
+# Team Name:
+47114 Group 3
+
 
 # Team Members:
 1. Danielle Baptiste: Dbaptiste08
