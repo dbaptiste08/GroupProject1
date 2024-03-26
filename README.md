@@ -12,12 +12,12 @@ The task at hand is to create and model a database for a membership based tennis
 
 # Data Model:
 
+<img width="851" alt="New Model" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/6cb4a082-5280-4591-a84f-bc719ab0e3ce">
 
 
 
-<img width="800" alt="Screenshot 2024-03-24 at 8 04 05 PM" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/28525620-ff8a-4f83-ae90-8ffd1dd36a67">
 
-
+# Data Dictionary:
 
 
 
