@@ -6,7 +6,7 @@
 
 # Team Members:
 1. Danielle Baptiste: [@dbaptiste08](https://github.com/dbaptiste08/GroupProject1/commits?author=dbaptiste08)
-2. Connor Miller: @ConnorMiller64
+2. Connor Miller: [@ConnorMiller64](https://github.com/ConnorMiller64)
 3. Jack Miller: @Jackhmiller31
 4. Hayden Martin: @haydentMartin
 5. Timofei Begun: @Conscientisehandball 
