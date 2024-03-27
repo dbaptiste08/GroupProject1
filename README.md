@@ -7,9 +7,9 @@
 # Team Members:
 1. Danielle Baptiste: [@dbaptiste08](https://github.com/dbaptiste08)
 2. Connor Miller: [@ConnorMiller64](https://github.com/ConnorMiller64)
-3. Jack Miller: @Jackhmiller31
-4. Hayden Martin: @haydentMartin
-5. Timofei Begun: @Conscientisehandball 
+3. Jack Miller: [@Jackhmiller31](https://github.com/jackhmiller31)
+4. Hayden Martin: [@haydentMartin](https://github.com/haydentMartin)
+5. Timofei Begun: [@Conscientisehandball](https://github.com/conscientisehandball)
 
 # Problem Description:
 The task at hand is to create and model a database for a membership based tennis club. In order to use this club, members must purchase a membership and in return get access to the club’s courts which include indoor and outdoor courts, access to a variety of tournaments, lessons with a tennis coach, and orders.
