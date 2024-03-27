@@ -15,6 +15,18 @@
 The task at hand is to create and model a database for a membership based tennis club. In order to use this club, members must purchase a membership and in return get access to the club’s courts which include indoor and outdoor courts, access to a variety of tournaments, lessons with a tennis coach, and orders.
 
 # Data Model:
+Explanation of data model:
+
+Our model is used to represent a hypothetical tennis club that is membership based that is focused on the management operations, and the several services members can choose from.
+
+Members are the heart of this tennis club, and at the tennis club they can reserve one on one lessons with the staff, which is represented with coach reservations. Since coaches are employees, we created a many to many relationship to demonstrate that members can have many different coaches and coaches can provide lessons to many different employees. These training sessions have set attributes including location and length of session.
+
+Members can also reserve numerous different services at the tennis club. We created a facility table to demonstrate the physical spaces the tennis club has. The tennis club houses courts, restaurants, gift shops, and spas representing the attribute facility type. There is also a description attribute that describes the facility. There is a 1 to many relationship between facility and amenities because of the specific numerous services at each facility. We created two separate entities, so we could create an associative identity between members and amenities named Amenity_Reservation. Since, it is highly uncommon for a member to say reserve a whole restaurant or spa we created a many to many between amenities and members, to specify what one particular service at a particular facility.
+
+Members have numerous payments they make to the club thus we created a one-to-many relationship specifying amount, method, and date. Since, there are items a member wishes to order from the tennis club including clothing and racquets, represented by inventorytype, we created an additional associative identity between inventory and order. We named this entity Order_Details which describes the priceEach and quantityOrdered.
+
+Lastly, this tennis club has numerous employees. Like any good business the manager of the tennis club has details on the employees, including names and phone numbers. We created a one to many relationship between employees and employee type to expand on the attributes of said employees. EmployeeType includes information such as part-time or full-time status, the specific facility the employee works at and the pay type based on the employee’s later specifications. Since employees work at the facilities and tournaments we demonstrated this relationship by creating a one to many relationship between employees and the above two entities.
+
 
 <img width="851" alt="New Model" src="https://github.com/dbaptiste08/GroupProject1/assets/149968815/6cb4a082-5280-4591-a84f-bc719ab0e3ce">
 
