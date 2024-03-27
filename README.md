@@ -139,7 +139,7 @@ This query shows the total revenue made on the sale of tennis racquets by date. 
 # Database Information: 
 Name of the database: ns_Sp24_47114_Group3
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format (for each query replace number sequentially up to 10): CALL TP_Q1();
 
 
 
